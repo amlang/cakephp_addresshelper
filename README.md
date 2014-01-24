@@ -9,6 +9,7 @@ Microdata AddressHelper class for easy working with addresses.
 [Usage](#usage)  
 [AddressHelper API](#api)  
 [License](#licence)  
+[How to Contribute](https://github.com/amlang/cakephp_addresshelper/blob/master/CONTRIBUTING.md)
 
 <a name="requirements"/>  
 ##Requirements
