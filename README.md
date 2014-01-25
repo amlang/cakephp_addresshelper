@@ -34,7 +34,7 @@ Embed __AddressHelper__ in your Controller such as any other helpers, too.
 
 ```php
 	//in a Controller
-	public $helper = array('Address');
+	public $helpers = array('Address');
 ```
 
 <a name="usage"/>
@@ -157,7 +157,7 @@ Keys for `name`-Array could be:
 
 <!-- or a full name -->
 
-<div itemprop="name" link="http://example.com">
+<div itemprop="name">
 			<span itemprop="honorificPrefix">Prof. Dr.</span>
 			<span itemprop="givenName">Alexander</span>
 			<span itemprop="additionalName">M.</span>
